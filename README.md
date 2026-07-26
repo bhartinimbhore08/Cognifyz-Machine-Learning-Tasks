@@ -19,8 +19,6 @@ The implementation is done using **Python**, **Pandas**, **NumPy**, **Matplotlib
 # 📂 Repository Structure
 ```
 Cognifyz-ML-Internship/
-│
-├── Dataset.csv
 ├── Task 1.ipynb
 ├── Task 2.ipynb
 ├── Task 3.ipynb
